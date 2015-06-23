@@ -1,0 +1,28 @@
+.md-toolbar-tools {
+  background-color: #127267;
+}
+
+.md-toolbar-tools h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: inherit;
+  font-weight: inherit;
+  margin: inherit;
+}
+
+md-content {
+	background-color: black;
+}
+
+.search {
+	background-color: #ECECEC;
+}
+
+md-card {
+  min-height: 150px;
+  height: 200vh;
+  margin: 0px;
+}
+
+.active {
+	background-color: black;
+}
